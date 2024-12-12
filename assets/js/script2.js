@@ -3,7 +3,7 @@ let cart = JSON.parse(localStorage.getItem('cart')) || [];
 
 // Manejo de productos dinámico
 const products = [
-    { id: 1, name: "Laptop", price: 800, img: "pantalla-de-portatil.png" },
+    { id: 1, name: "Laptop", price: 749900, img: "pantalla-de-portatil.png" },
     { id: 2, name: "Smartphone", price: 600, img: "smartphone.jpg" },
     { id: 3, name: "Sofá", price: 300, img: "sofa.jpg" },
     { id: 4, name: "Lámpara", price: 50, img: "lamp.jpg" },
