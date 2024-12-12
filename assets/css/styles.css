@@ -51,7 +51,7 @@ header nav a:hover {
 
 .hero-btn {
   background: white;
-  color: #0056d6;
+  color: #00b9d6;
   padding: 10px 20px;
   text-decoration: none;
   font-weight: bold;
@@ -60,7 +60,7 @@ header nav a:hover {
 }
 
 .hero-btn:hover {
-  background: #003c99;
+  background:  #00b9d6;
   color: white;
 }
 
@@ -93,7 +93,7 @@ header nav a:hover {
 }
 
 .product button {
-  background: #0056d6;
+  background: #00b9d6;
   color: white;
   border: none;
   padding: 10px 15px;
@@ -230,7 +230,7 @@ header nav a:hover {
 }
 
 .contact-form .btn {
-  background: #0056d6;
+  background: #00b9d6;
   color: white;
   padding: 10px 15px;
   border: none;
@@ -241,7 +241,7 @@ header nav a:hover {
 }
 
 .contact-form .btn:hover {
-  background-color: #003c99;
+  background-color: #00b9d6;
 }
 
 /* Estilos del mapa */

@@ -8,7 +8,7 @@ body {
   }
   
   h2, h3 {
-    color: #0056d6;
+    color: #333;
     text-align: center;
   }
   
@@ -19,7 +19,7 @@ body {
   
   /* Header */
   .header {
-    background: #003c99;
+    background: #333;
     color: white;
     display: flex;
     justify-content: space-between;
@@ -114,7 +114,7 @@ body {
   }
   
   .cart-summary .btn {
-    background: #0056d6;
+    background: #00b9d6;
     color: white;
     padding: 10px 20px;
     border: none;
